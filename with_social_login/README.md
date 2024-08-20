@@ -1,0 +1,1 @@
+![Texte alternatif](./capteur.png)
